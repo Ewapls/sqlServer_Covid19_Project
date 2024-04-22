@@ -11,6 +11,7 @@ El objetivo de este análisis es poder comprender el comportamiento de las infec
 
 ### Alcance
 El dataset utilizado contiene 390684 filas y 71 columnas, abarca todos los datos sobre covid 19 con respecto a cada pais entre el 01/01/2020 al 15/04/2024.
+La data fue obtenida de https://ourworldindata.org/covid-deaths.
 
 ### Diagrama entidad-relación 
 A continuación, se detalla el diagrama entidad-relación creado: 
