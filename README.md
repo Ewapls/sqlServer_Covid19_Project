@@ -15,8 +15,7 @@ El dataset utilizado contiene 390684 filas y 71 columnas, abarca todos los datos
 ### Diagrama entidad-relación 
 A continuación, se detalla el diagrama entidad-relación creado: 
 
-![DER](/images/DER.png/)
-![DER](/Entity Relationship Diagram (ERD)/Entity Relation Diagram - Page 4.png/)
+![DER](/ERD/erd.png/)
 
 
 ### Listado de Tablas
